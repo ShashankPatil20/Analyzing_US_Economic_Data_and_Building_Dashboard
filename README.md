@@ -1,4 +1,4 @@
-# Analyzing_US_Economic_Data_and_Building_Dashboard
+
 This Project comprises of basic concepts of data science. This project was offered by Coursera.
 
 About this Project
